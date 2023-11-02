@@ -1,5 +1,6 @@
 // const utils = require('./utils')
-const {add} = require('./utils')
+import {add} from './utils.js'
+// import utils from './utils.js'
 
 // console.log(utils)
 
